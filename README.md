@@ -30,3 +30,6 @@
 
 ### 在线课程
 1. [果壳MOOC](https://mooc.guokr.com/)
+
+### 博客
+1. [静觅-崔庆才的个人博客](http://cuiqingcai.com/)
