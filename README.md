@@ -76,10 +76,13 @@ by:[lime](https://github.com/Zeta-lime) 2017/11/3
 10. [雷锋网](https://www.leiphone.com/)
 11. [伯乐在线](http://www.jobbole.com/)
 12. [阿里云栖](https://yq.aliyun.com/articles)
+13. [深度开源](http://www.open-open.com/news/)
 ### 博客
 1. [静觅-崔庆才的个人博客](http://cuiqingcai.com/)
 2. [matrix67-一个数学博客](http://www.matrix67.com/blog/)
 3. [火光摇曳（非常好的一个博客）](http://www.flickering.cn/)
+4. [廖雪峰](https://www.liaoxuefeng.com/)
+5. [阮一峰](http://www.ruanyifeng.com/)
 ### 电子书
 1. [gitbook上的一个仓库](https://www.gitbook.com/@wizardforcel)
 2. [书伴（bookfere.com），原名“Kindle伴侣](https://bookfere.com/)
