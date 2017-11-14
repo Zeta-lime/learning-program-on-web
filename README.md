@@ -1,6 +1,6 @@
 # 网上的学习编程资源
 
-by:[lime](https://github.com/Zeta-lime) 2017/11/3
+by:[lime](https://github.com/Zeta-lime) start:2017/11/3
 
 ---
 
@@ -12,12 +12,33 @@ by:[lime](https://github.com/Zeta-lime) 2017/11/3
 
 1. [极客学院Wiki](http://wiki.jikexueyuan.com/)
 2. [易百教程](http://www.yiibai.com/)
+3. [深度开源·经验](http://www.open-open.com/lib/)
 
+## 比赛平台
+1. [kaggle](https://www.kaggle.com/),[kaggle tutorials](https://www.kaggle.com/wiki/Tutorials)
+2. [google code jam](https://code.google.com/codejam/)
+3. [阿里天池](https://tianchi.aliyun.com/)
+4. [datafountain](http://www.datafountain.cn/#/)
+5. [datacastle](http://www.dcjingsai.com/)
+
+## online judge
+1. [leetcode](https://leetcode.com/)
+5. [lintcode](http://www.lintcode.com/zh-cn/problem/two-sum/)
+2. [牛客网](https://www.nowcoder.com/)
+4. [赛码网](http://www.acmcoder.com/index)
+3. [北京大学oj](http://poj.org/)
+
+## 在线工具
+1. [在线制作流程图思维导图UML图等](https://www.processon.com/)
+2. 国内的代码托管、项目管理：
+    - [码云](https://gitee.com/)
+    - [coding](https://coding.net/)
 ## 创造者和他们使用的工具
 
 - [利器](http://liqi.io/)
 - [少数派](https://sspai.com/)
 - [usesthis都是大牛](https://usesthis.com/)
+
 ## 国外资源
 
 ### 在线课程
@@ -47,7 +68,7 @@ by:[lime](https://github.com/Zeta-lime) 2017/11/3
 [Google分析](https://www.google.com/intl/zh/analytics/)
 [google doc](https://www.google.com/docs/about/)
 [google trends](https://trends.google.com/trends/?hl=zh-CN)
-
+[google code](https://code.google.com/)
 
 ### 博客
 
@@ -60,6 +81,7 @@ by:[lime](https://github.com/Zeta-lime) 2017/11/3
     - [实验楼](https://www.shiyanlou.com/)
     - [计蒜客](https://www.jisuanke.com/)
 4. [菜鸟教程](http://www.runoob.com/)、[w3cschool](https://www.w3cschool.cn/tutorial)
+5. [九章算法](https://www.jiuzhang.com/)
 ###社区
 1. cnblog、csdn
 2. 知乎
@@ -72,6 +94,7 @@ by:[lime](https://github.com/Zeta-lime) 2017/11/3
 8. 人工智能
     - [我爱自然语言处理](http://www.52nlp.cn/)
     - [机器学习干货](https://www.52ml.net/)
+    - [x-algo](http://x-algo.cn/)
 9. [掘金](https://juejin.im/)
 10. [雷锋网](https://www.leiphone.com/)
 11. [伯乐在线](http://www.jobbole.com/)
@@ -86,5 +109,7 @@ by:[lime](https://github.com/Zeta-lime) 2017/11/3
 ### 电子书
 1. [gitbook上的一个仓库](https://www.gitbook.com/@wizardforcel)
 2. [书伴（bookfere.com），原名“Kindle伴侣](https://bookfere.com/)
+## 资讯
+1. [品玩](http://www.pingwest.com/)
 ## Python
 1. [使用python进行科学研究pythonprogramming.net](https://pythonprogramming.net/)
