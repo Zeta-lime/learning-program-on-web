@@ -13,6 +13,7 @@ by:[lime](https://github.com/Zeta-lime) start:2017/11/3
 1. [极客学院Wiki](http://wiki.jikexueyuan.com/)
 2. [易百教程](http://www.yiibai.com/)
 3. [深度开源·经验](http://www.open-open.com/lib/)
+4. [微软doc](https://docs.microsoft.com/zh-cn/)
 
 ## 比赛平台
 1. [kaggle](https://www.kaggle.com/),[kaggle tutorials](https://www.kaggle.com/wiki/Tutorials)
@@ -27,6 +28,7 @@ by:[lime](https://github.com/Zeta-lime) start:2017/11/3
 2. [牛客网](https://www.nowcoder.com/)
 4. [赛码网](http://www.acmcoder.com/index)
 3. [北京大学oj](http://poj.org/)
+6. [hackerrank](https://www.hackerrank.com/dashboard)
 
 ## 在线工具
 1. [在线制作流程图思维导图UML图等](https://www.processon.com/)
@@ -95,6 +97,7 @@ by:[lime](https://github.com/Zeta-lime) start:2017/11/3
     - [我爱自然语言处理](http://www.52nlp.cn/)
     - [机器学习干货](https://www.52ml.net/)
     - [x-algo](http://x-algo.cn/)
+14. [简明现代魔法](http://www.nowamagic.net/librarys/veda/cate/Algorithm)
 9. [掘金](https://juejin.im/)
 10. [雷锋网](https://www.leiphone.com/)
 11. [伯乐在线](http://www.jobbole.com/)
@@ -106,10 +109,22 @@ by:[lime](https://github.com/Zeta-lime) start:2017/11/3
 3. [火光摇曳（非常好的一个博客）](http://www.flickering.cn/)
 4. [廖雪峰](https://www.liaoxuefeng.com/)
 5. [阮一峰](http://www.ruanyifeng.com/)
+6. [老赵点滴](http://blog.zhaojie.me/)
+7. [刘未鹏](http://mindhacks.cn/)
 ### 电子书
 1. [gitbook上的一个仓库](https://www.gitbook.com/@wizardforcel)
 2. [书伴（bookfere.com），原名“Kindle伴侣](https://bookfere.com/)
+3. [so-kindle](https://www.so-kindle.com/)
+4. [sokindle](https://sokindle.com/)
+### 未分类
+1. [iview](https://www.iviewui.com/)
+2. [Vue.js](https://cn.vuejs.org/)
+3. [移动观象台](http://mi.talkingdata.com/)
+4. [talkingdata](https://www.talkingdata.com/)
 ## 资讯
 1. [品玩](http://www.pingwest.com/)
+2. [酷壳](https://coolshell.cn/)
+
+
 ## Python
 1. [使用python进行科学研究pythonprogramming.net](https://pythonprogramming.net/)
